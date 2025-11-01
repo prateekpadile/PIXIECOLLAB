@@ -1,0 +1,9 @@
+
+credentials.json
+.eslintrc.json
+.prettierignore
+.prettierrc
+.eslintignore
+node_modules/
+.env
+
