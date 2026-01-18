@@ -114,5 +114,3 @@ Contributions are welcome! If you’d like to contribute, please:
 
 ---
 
-## Contact
-For queries or support, please reach out to [arman.wankhede2003@gmail.com].
